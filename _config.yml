@@ -3,7 +3,7 @@ description: "Personal notes and modeling thoughts."
 url: "https://shaohui1977.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-primer
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
