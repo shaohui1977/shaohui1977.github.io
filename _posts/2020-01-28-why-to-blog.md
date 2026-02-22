@@ -1,7 +1,8 @@
 ---
 title: "开篇"
 date: 2020-01-28
-categories: [notes]
+tags: [思考]
+excerpt: "为什么开始写博客"
 ---
 
 # 开篇
