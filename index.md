@@ -4,7 +4,7 @@ title: "Shaohui"
 description: "Personal notes and modeling thoughts."
 ---
 
-# Shaohui
+# AI时代的“自留地”
 
 This is a personal space for notes, modeling ideas and occasional thoughts.
 
