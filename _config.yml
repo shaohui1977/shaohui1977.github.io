@@ -1,0 +1,13 @@
+title: "Shaohui"
+description: "Personal notes and modeling thoughts."
+url: "https://shaohui1977.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
